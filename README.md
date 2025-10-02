@@ -9,7 +9,10 @@
   
 ![Example Image](prototype.png)
 
-### Вы можете протестировать работу прототипа на Вашем компьютере
+Скринкаст работы прототипа можно посмотреть по ссылке: 
+https://drive.google.com/file/d/1aza-9Kk8s-UinZrMQQbLUwQp1QPja2tM/view?usp=drive_link
+
+### Также Вы можете протестировать работу прототипа на Вашем компьютере
 1. Установить requirements
 
    ```
